@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|c:\\users\\perse\\documents\\personalprojects\\kingmaker\\kingdom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|solutionrelative:kingdom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|c:\\users\\perse\\documents\\personalprojects\\kingmaker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|c:\\users\\perse\\documents\\personalprojects\\kingmaker\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|solutionrelative:building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|c:\\users\\perse\\documents\\personalprojects\\kingmaker\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F027E8-A65B-4FCF-BB51-4B4CDF5681B4}|Kingmaker.csproj|solutionrelative:filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kingdom.cs",
+              "DocumentMoniker": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\Kingdom.cs",
+              "RelativeDocumentMoniker": "Kingdom.cs",
+              "ToolTip": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\Kingdom.cs",
+              "RelativeToolTip": "Kingdom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:58:09.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Building.cs",
+              "DocumentMoniker": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\Building.cs",
+              "RelativeDocumentMoniker": "Building.cs",
+              "ToolTip": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\Building.cs",
+              "RelativeToolTip": "Building.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:42:49.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\FileReader.cs",
+              "RelativeDocumentMoniker": "FileReader.cs",
+              "ToolTip": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\FileReader.cs",
+              "RelativeToolTip": "FileReader.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:40:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\perse\\Documents\\PersonalProjects\\Kingmaker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:58:08.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

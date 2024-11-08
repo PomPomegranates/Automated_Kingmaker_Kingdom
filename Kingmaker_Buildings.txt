@@ -1,0 +1,585 @@
+Academy (52 BP, 2 Lots)
+
+Kingdom Economy +2, Loyalty +2
+Discount Caster's Tower, Library, Magic Shop
+Upgrade From Library; Upgrade To University
+Magic Items 3 minor scrolls or wondrous items, 2 medium scrolls or wondrous items
+Settlement Lore +2, Productivity +1, Society +2; increase Lore bonus by 2 for questions relating to one Knowledge or Profession skill
+
+An institution of higher learning.
+_
+Alchemist (18 BP, 1 Lot)
+
+Kingdom Economy +1
+Limit Adjacent to 1 House
+Special Base value +1,000 gp
+Magic Items 1 minor potion or wondrous item
+
+The laboratory and home of a crafter of poisons, potions, or alchemical items.
+_
+Arena (40 BP, 4 Lots)
+
+Kingdom Stability +4; Fame +1
+Discount Brothel, Garrison, Inn, Stable, Theater
+Limit 1 per settlement
+Upgrade From Theater
+Settlement Crime +1
+
+A large public structure for competitions and team sports.
+_
+Bank (28 BP, 1 Lot)
+
+Kingdom Economy +4
+Special Base value +2,000 gp
+
+A secure building for storing valuables and granting loans.
+_
+Bardic College (40 BP, 2 Lots)
+
+Kingdom Economy +1, Loyalty +3, Stability +1; Fame +1
+Discount Library, Museum, Theater
+Magic Items 2 minor scrolls or wondrous items
+
+A center for artistic learning. Education in a Bardic College also includes research into a wide-range of historical topics.
+_
+Barracks (6 BP, 1 Lot)
+
+Kingdom Unrest –1
+Upgrade To Garrison
+Special Defense +2
+Settlement Law +1
+
+A building to house conscripts, guards, militia, soldiers, or similar military forces.
+_
+Black Market (50 BP, 1 Lot)
+
+Kingdom Economy +2, Stability +1, Unrest +1
+Discount Brothel
+Limit Adjacent to 2 Houses
+Special Base value +2,000 gp
+Magic Items 2 minor items, 1 medium item, 1 major item
+Settlement Corruption +2, Crime +2
+
+A number of shops with secret and usually illegal wares.
+_
+Brewery (6 BP, 1 Lot)
+
+Kingdom Loyalty +1, Stability +1
+
+A building for beer brewing, winemaking, or some similar use.
+_
+Bridge (6 BP, 1 Lot)
+
+Kingdom Economy +1
+Special Shares the space with a river or Waterway lot
+
+Allows travel across a river or Waterway, easing transportation.
+_
+Bureau (10 BP, 2 Lots)
+
+Kingdom Economy +1, Loyalty –1, Stability +1
+Settlement Corruption +1, Law +1
+
+A large warren of offices for clerks and record-keepers working for a guild or government.
+_
+Caster's Tower (30 BP, 1 Lot)
+
+Kingdom Economy +1, Loyalty +1
+Magic Items 3 minor items, 2 medium items
+
+The home and laboratory for a spellcaster.
+_
+Castle (54 BP, 4 Lots)
+
+Kingdom Economy +2, Loyalty +2, Stability +2, Unrest –4; Fame +1
+Discount Noble Villa, Town Hall
+Limit 1 per settlement
+Special Defense +8
+
+The home of the settlement's leader or the heart of its defenses.
+_
+Cathedral (58 BP, 4 Lots)
+
+Kingdom Loyalty +4, Stability +4, Unrest –4; Fame +1
+Discount Academy, Temple
+Limit 1 per settlement
+Special Halves Consumption increase for Promotion edicts
+Magic Items 3 minor potions or wondrous items, 2 medium potions or wondrous items
+Settlement Law +2
+
+The focal point of the settlement's spiritual leadership.
+_
+Cistern (6 BP, 1 Lot)
+
+Kingdom Stability +1
+Limit Cannot be adjacent to a Dump, Graveyard, Stable, Stockyard, or Tannery
+Special Can share lot with another building Contains a safe supply of fresh water for the settlement.
+_
+City Wall (2 BP)
+
+Kingdom Unrest –2 (once per settlement)
+Limit Land district border
+Special Defense +1
+
+A fortification of one side of a district with a sturdy wall. The GM may allow for cliffs and other natural features to function as a City Wall for one or more sides of a district. You may construct gates through your own city wall at no cost.
+_
+Dance Hall (4 BP, 1 Lot)
+
+Kingdom Economy +1, Loyalty +2, Unrest +1
+Limit Adjacent to 1 House
+Settlement Corruption +1, Crime +1
+
+An establishment for dancing, drinking, carousing, and holding celebrations.
+_
+Dump (4 BP, 1 Lot)
+
+Kingdom Stability +1
+Limit Cannot be adjacent to House, Mansion, or Noble Villa
+
+A centralized place to dispose of refuse.
+_
+Everflowing Spring (5 BP)
+
+Limit
+Settlement must have a building that can create medium magic items
+Special Can share lot with Castle, Cathedral, Market, Monument, Park, or Town Hall
+
+A fountain built around several decanters of endless water that provides an inexhaustible supply of fresh water.
+_
+Exotic Artisan (10 BP, 1 Lot)
+
+Kingdom Economy +1, Stability +1
+Limit Adjacent to 1 House
+Magic Items 1 minor ring, wand, or wondrous item
+
+The shop and home of a jeweler, tinker, glassblower, or the like.
+_
+Foreign Quarter (30 BP, 4 Lots)
+
+Kingdom Economy +3, Stability –1
+Special Increase the value of trade routes (see Trade Edicts by 5% (maximum 100%)
+Settlement Crime +1, Lore +1, Society +2
+
+An area with many foreigners, as well as shops and services catering to them.
+_
+Foundry (16 BP, 2 Lots)
+
+Kingdom Economy +1, Stability +1, Unrest +1
+Discount Smithy
+Limit Adjacent to water district border
+Special Increase the Economy and BP earned per turn by 1 for 1 Mine connected to this settlement by a river or Road
+Settlement Productivity +1
+
+Processes ore and refines it into finished metal.
+_
+
+Garrison (28 BP, 2 Lots)
+
+Kingdom Loyalty +2, Stability +2, Unrest –2
+Discount City Wall, Granary, Jail
+Upgrade From Barracks
+
+A large building to house armies, train guards, and recruit militia.
+_
+
+Granary (12 BP, 1 Lot)
+
+Kingdom Loyalty +1, Stability +1
+Special If Farms reduce Consumption below 0, store up to 5 BP of excess production for use on a later turn when Consumption exceeds the Treasury
+
+A place to store grain and food.
+_
+
+Graveyard (4 BP, 1 Lot)
+
+Kingdom Loyalty +1
+
+A plot of land to honor and bury the dead.
+_
+Guildhall (34 BP, 2 Lots)
+
+Kingdom Economy +2, Loyalty +2
+Discount Pier, Stable, Trade Shop
+Upgrade From Trade Shop
+Special Base value +1,000 gp
+Settlement Law +1, Productivity +2
+
+The headquarters for a guild or similar organization.
+_
+
+Herbalist (10 BP, 1 Lot)
+
+Kingdom Loyalty +1, Stability +1
+Limit Adjacent to 1 House
+Magic Items 1 minor potion or wondrous item
+
+The workshop and home of a gardener, healer, or poisoner.
+_
+
+Hospital (30 BP, 2 Lots)
+
+Kingdom Loyalty +1, Stability +2
+Special Increase Stability by 2 during plague events
+Settlement Lore +1, Productivity +2
+
+A building devoted to healing the sick.
+_
+
+House (3 BP, 1 Lot)
+
+Kingdom Unrest –1
+Upgrade From Tenement
+Special The first House you build during the Improvement phase does not count against the total number of buildings you can build during the phase
+
+A number of mid-sized houses for citizens.
+_
+
+Inn (10 BP, 1 Lot)
+
+Kingdom Economy +1, Loyalty +1
+Limit Adjacent to 1 House
+Special Base value +500 gp
+Settlement Society +1
+
+A place for visitors to rest.
+_
+Jail (14 BP, 1 Lot)
+
+Kingdom Loyalty +2, Stability +2, Unrest –2
+Settlement Crime –1, Law +1
+
+A fortified structure for confining criminals or dangerous monsters.
+_
+Library (6 BP, 1 Lot)
+
+Kingdom Economy +1, Loyalty +1
+Upgrade To Academy
+Settlement Lore +1
+
+A large building containing an archive of books.
+_
+Luxury Store (28 BP, 1 Lot)
+
+Kingdom Economy +1
+Limit Adjacent to 1 House
+Upgrade To Magic Shop; Upgrade From Shop
+Special Base value +2,000 gp
+Magic Items 2 minor rings, wands, or wondrous items
+
+A shop that specializes in expensive comforts for the wealthy.
+_
+Magic Shop (68 BP, 1 Lot)
+
+Kingdom Economy +1
+Limit Adjacent to 2 Houses
+Upgrade From Luxury Store
+Special Base value +2,000 gp
+Magic Items 4 minor wondrous items, 2 medium wondrous items, 1 major wondrous item
+
+A shop that specializes in magic items and spells.
+_
+Magical Academy (58 BP, 2 Lots)
+
+Kingdom Economy +2; Fame +1
+Discount Caster's Tower, Library, Magic Shop
+Magic Items 3 minor potions, scrolls, or wondrous items; 1 medium potion, scroll, or wondrous item
+Settlement Lore +2, Society +1; increase Lore bonus by 2 for questions relating to Knowledge (arcana)
+
+An institution for training students in spellcasting, magic item crafting, and various arcane arts.
+_
+Magical Streetlamps (5 BP)
+
+Limit
+Settlement must have a Cathedral, Magic Shop, Magical Academy, or Temple
+Special Can share a lot with any building or improvement
+Settlement Crime –1
+
+Continual flame lamps that illuminate the lot.
+_
+Mansion (10 BP, 1 Lot)
+
+Kingdom Stability +1
+Upgrade To Noble Villa
+Settlement Law +1, Society +1
+
+A single huge manor housing a rich family and its servants.
+_
+Market (48 BP, 2 Lots)
+
+Kingdom Economy +2, Stability +2
+Discount Black Market, Inn, Shop
+Limit Adjacent to 2 Houses
+Upgrade From Shop
+Special Base value +2,000 gp
+Magic Items 2 minor wondrous items
+
+An open area for traveling merchants and bargain hunters.
+_
+Menagerie (16 BP, 4 Lots)
+
+Kingdom Economy +1, Loyalty (special); Fame +1
+Special Increase Loyalty by 1/4 the CR of the highest-CR creature in the Menagerie
+
+A large park stocked with exotic creatures for public viewing.
+_
+Military Academy (36 BP, 2 Lots)
+
+Kingdom Loyalty +2, Stability +1; Fame +1
+Discount Barracks
+Limit 1 per settlement
+Special Armies and commanders recruited at the settlement gain one bonus tactic (see Army Tactics)
+Magic Items 1 minor armor, shield, or weapon; 1 medium armor, shield, or weapon
+Settlement Law +1, Lore +1
+
+An institution dedicated to the study of war and the training of elite soldiers and officers.
+_
+Mill (6 BP, 1 Lot)
+
+Kingdom Economy +1, Stability +1
+Limit Adjacent to water district border
+Special With GM approval, you can construct a windmill at the same cost without the water district border requirement
+Settlement Productivity +1
+
+A building used to cut lumber or grind grain.
+_
+Mint (30 BP, 1 Lot)
+
+Kingdom Economy +3, Loyalty +3, Stability +1; Fame +1
+
+A secure building where the kingdom's coinage is minted and standard weights and measures are kept.
+_
+Moat (2 BP)
+
+Kingdom Unrest –1 (once per settlement)
+Limit Land district border
+Special Defense +1; cannot be damaged by siege engines
+
+A fortification of one side of a district with an open or water-filled ditch, often backed by a low dike or embankment. The GM may allow a river or similar natural feature to function as a moat for one or more sides of a district.
+_
+Monastery (16 BP, 2 Lots)
+
+Kingdom Stability +1
+Settlement Law +1, Lore +1
+
+A cloister for meditation, study, and the pursuit of various other scholarly paths.
+_
+Monument (6 BP, 1 Lot)
+
+Kingdom Loyalty +1, Unrest –1
+
+A local memorial such as a bell tower, a statue of a settlement founder, a large tomb, or a public display of art.
+_
+Museum (30 BP, 2 Lots)
+
+Kingdom Economy +1, Loyalty +1; Fame +1
+Settlement Lore +2, Society +1; increase Lore bonus by 2 for questions relating to Knowledge (history); apply Lore bonus on Appraise checks regarding art objects
+
+A place to display art and artifacts both modern and historical. The GM may allow the kingdom leaders to display a valuable item (such as a magic item or bejeweled statue) in the museum, increasing Fame during this display by 1 for every 10,000 gp of the item's price (maximum +5 Fame), and by an additional 1 if the item is significant to the kingdom's history.
+_
+Noble Villa (24 BP, 2 Lot)
+
+Kingdom Economy +1, Loyalty +1, Stability +1; Fame +1
+Discount Exotic Artisan, Luxury Store, Mansion
+Upgrade From Mansion
+Settlement Society +1
+
+A sprawling manor with luxurious grounds that houses a noble's family and staff.
+_
+Observatory (12 BP, 1 Lot)
+
+Kingdom Stability +1
+Magic Items 1 minor scroll or wondrous item
+Settlement Lore +2
+
+A dome or tower with optical devices for viewing the heavens.
+_
+Orphanage (6 BP, 1 Lot)
+
+Kingdom Stability +1, Unrest –1
+
+A place for housing and taking care of large numbers of orphans.
+_
+Palace (108 BP, 4 Lots)
+
+Kingdom Economy +2, Loyalty +6, Stability +2; Fame +1
+Discount Mansion, Mint, Noble Villa
+Special Base value +1,000 gp; you may make two special edicts per turn, but take a –2 penalty on kingdom checks associated with each special edict
+Settlement Law +2
+
+A grand edifice and walled grounds demonstrating one's wealth, power, and authority to the world.
+_
+Park (4 BP, 1 Lot)
+
+Kingdom Loyalty +1, Unrest –1
+
+A plot of land set aside for its serene beauty.
+_
+Paved Streets (24 BP)
+
+Kingdom Economy +2, Stability +1
+Limit 1 per district
+Settlement Productivity +2
+
+Brick or stone pavement that speeds transportation.
+_
+Pier (16 BP, 1 Lot)
+
+Kingdom Economy +1, Stability +1
+Limit Adjacent to water district border
+Upgrade To Waterfront
+Special Base value +1,000 gp
+Settlement Crime +1
+
+Warehouses and workshops for docking ships and handling cargo and passengers.
+_
+Sewer System (24 BP)
+
+Kingdom Loyalty +1, Stability +2
+Discount Cistern, Dump
+Limit 1 per district
+Settlement Crime +1, Productivity +1
+
+An underground sanitation system that keeps the settlement clean, though it may become home to criminals and monsters.
+_
+Shop (8 BP, 1 Lot)
+
+Kingdom Economy +1
+Limit Adjacent to 1 House or Mansion
+Upgrade To Luxury Store, Market
+Special Base value +500 gp
+Settlement Productivity +1
+
+A general store.
+_
+Shrine (8 BP, 1 Lot)
+
+Kingdom Loyalty +1, Unrest –1
+Upgrade To Temple
+Magic Items 1 minor potion, scroll, or wondrous item
+
+A shrine, idol, sacred grove, or similar holy site designed for worship by pious individuals.
+_
+Smithy (6 BP, 1 Lot)
+
+Kingdom Economy +1, Stability +1
+
+The workshop of an armorsmith, blacksmith, weaponsmith, or other craftsman who works with metal.
+
+Stable (10 BP, 1 Lot)
+
+Kingdom Economy +1, Loyalty +1
+Limit Adjacent to 1 House, Mansion, or Noble Villa
+Special Base value +500 gp
+
+A structure for housing or selling horses and other mounts.
+_
+Stockyard (20 BP, 4 Lots)
+
+Kingdom Economy +1, Stability –1
+Discount Stable, Tannery
+Special Farms in this hex or adjacent hexes reduce Consumption by 3 instead of 2
+Settlement Productivity +1
+
+Barns and pens that store herd animals and prepare them for nearby slaughterhouses.
+_
+Tannery (6 BP, 1 Lot)
+
+Kingdom Economy +1, Stability +1
+Limit Cannot be adjacent to House, Mansion, Noble Villa, or Tenement
+Settlement Society –1
+
+A structure that prepares hides and leather.
+_
+Tavern (12 BP, 1 Lot)
+
+Kingdom Economy +1, Loyalty +1
+Limit Adjacent to 1 House or Mansion
+Special Base value +500 gp
+Settlement Corruption +1
+
+An eating or drinking establishment.
+_
+Temple (32 BP, 2 Lots)
+
+Kingdom Loyalty +2, Stability +2, Unrest –2
+Discount Graveyard, Monument, Shrine
+Upgrade From Shrine
+Magic Items 2 minor items
+
+A large place of worship dedicated to a deity.
+_
+Tenement (1 BP, 1 Lot)
+
+Kingdom Unrest +2
+Upgrade To House
+Special Counts as House for buildings that must be adjacent to a House
+
+A staggering number of low-rent housing units.
+_
+Theater (24 BP, 2 Lots)
+
+Kingdom Economy +2, Stability +2
+Discount Brothel, Exotic Artisan, Inn, Park, Tavern
+Upgrade To Arena
+
+A venue for entertainments such as plays, operas, and concerts.
+_
+Town Hall (22 BP, 2 Lots)
+
+Kingdom Economy +1, Loyalty +1, Stability +1
+Discount Barracks, Cistern, Dump, Jail, Watchtower
+Settlement Law +1
+
+A public venue for town meetings, repository for town records, and offices for minor bureaucrats.
+_
+Trade Shop (10 BP, 1 Lot)
+
+Kingdom Economy +1, Stability +1
+Limit Adjacent to 1 House
+Upgrade To Guildhall
+Special Base value +500 gp
+Settlement Productivity +1
+
+A shop front for a tradesperson, such as a baker, butcher, candle maker, cobbler, rope maker, or wainwright.
+_
+University (78 BP, 4 Lots)
+
+Kingdom Economy +3, Loyalty +3; Fame +1
+Discount Academy, Bardic College, Library, Magical Academy, Military Academy, Museum
+Upgrade From Academy
+Magic Items 4 minor scrolls or wondrous items, 2 medium scrolls or wondrous items
+Settlement Lore +4, Society +3; increase Lore bonus by 4 for questions relating to one Knowledge or Profession skill
+
+An institution of higher learning, focusing mainly on mundane subjects but dabbling in magical theory.
+_
+Watchtower (12 BP, 1 Lot)
+
+Kingdom Stability +1, Unrest –1
+Special Defense +2
+
+A tall structure that serves as a guard post.
+_
+Watergate (2 BP)
+
+Special Shares City Wall
+
+A gate in a City Wall that allows water (such as a river, Aqueduct, or Waterway) to enter the settlement. A Watergate has underwater defenses to block unwanted access. If you construct a Watergate when you construct a City Wall, the Watergate does not count toward the limit of the number of buildings you can construct per turn.
+_
+Waterfront (90 BP, 4 Lots)
+
+Kingdom Economy +4
+Discount Black Market, Guildhall, Market, Pier
+Limit Adjacent to water district border, 1 per settlement
+Upgrade From Pier
+Special Base value +4,000 gp; halves Loyalty penalty for Taxation edicts
+Magic Items 2 minor wondrous items, 1 medium wondrous item, 1 major wondrous item
+Settlement Productivity +2
+
+A port for waterborne arrival and departure, with facilities for shipping and shipbuilding.
+_
+Waterway (3 BP, 1–2 Lots)
+
+Special Counts as water district border for adjacent buildings
+
+A river or canal occupying part of the District Grid. At the GM's option, a natural Waterway may already exist on the grid, requiring no action or BP to build. If you construct a City Wall that touches or crosses the Waterway, you must also build Watergates on the same turn.
+_

@@ -1,0 +1,795 @@
+
+
+Academy
+Structure 10
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 544
+An academy gives your citizens—and the PCs themselves— an institution where advanced study in many fields can be pursued, researched, and referenced.
+Lots 2; Cost 52 RP, 12 Lumber, 6 Luxuries, 12 Stone
+Construction Scholarship (expert) DC 27
+Upgrade From Library
+Upgrade To Military Academy, University
+Item Bonus +2 item bonus to Creative Solution
+Effects While in a settlement with an Academy, you gain a +2 item bonus to Lore checks made to Recall Knowledge while Investigate, to all checks made while Researching, and to Decipher Writing.
+Alchemy Laboratory
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 544
+An alchemy laboratory serves as a factory for alchemists and their apprentices for the crafting of potions, elixirs, and all manner of alchemical items. An infamous kingdom's laboratory might specialize in poisons as well.
+Lots 1; Cost 18 RP, 2 Ore, 5 Stone
+Construction Industry (trained) DC 16
+Item Bonus +1 item bonus to Demolish
+Effects Treat the settlement's level as one level higher than its actual level for the purposes of determining which alchemical items are readily available for sale in that settlement. This effect stacks up to three times. Checks attempted to Identify Alchemy in any settlement with at least one alchemy laboratory gain a +1 item bonus.
+Arcanist's Tower
+Structure 5
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 544
+An arcanist's tower is a home and laboratory for an arcane spellcaster (usually a wizard) and their apprentices, servants, and students.
+Lots 1; Cost 30 RP, 6 Ore
+Construction Magic (trained) DC 20
+Item Bonus +1 item bonus to Quell Unrest using Magic
+Effects Treat the settlement's level as one level higher than its actual level for the purposes of determining which arcane magic items are readily available for sale in that settlement. This effect stacks up to three times. While in a settlement with an arcanist's tower, you gain a +1 item bonus to checks made to Borrow an Arcane Spell or Learn a Spell.
+Arena
+Structure 9
+Legacy Content
+Edifice Yard 
+Source Kingmaker Adventure Path pg. 544
+An Arena is a large public structure, traditionally open to the air, surrounded by seating and viewing areas. It's used for staging competitions, athletics, gladiatorial combats, and elaborate entertainments and spectacles.
+Lots 4; Cost 40 RP, 6 Lumber, 12 Stone
+Construction Warfare (expert) DC 26
+Upgrade To Gladiatorial Arena
+Item Bonus +2 item bonus to Celebrate Holiday and to Warfare checks made to Quell Unrest
+Effects An arena lets you to retrain combat-themed feats more efficiently while in the settlement; doing so takes only 5 days rather than a week of downtime.
+Bank
+Structure 5
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 544
+A bank is a secure building for storing valuables, granting loans, and collecting and transferring deposits.
+Lots 1; Cost 28 RP, 4 Ore, 6 Stone
+Construction Trade (trained) DC 20
+Item Bonus +1 item bonus to Tap Treasury
+Effects The Capital Investment Leadership activity can be used only within the influence area of a settlement with a bank.
+Barracks
+Structure 3
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 544
+Barracks are focused on housing and training guards, militia, soldiers, and military forces.
+Lots 1; Cost 6 RP, 2 Lumber, 1 Stone
+Construction Defense DC 16
+Upgrade To Garrison
+Item Bonus +1 item bonus to Garrison Army, Recover Army, or Recruit Army (see Appendix 3)
+Effects Barracks aid in the recruitment of armies and in helping soldiers recover from battle. The first time you build a barracks in any settlement, reduce Unrest by 1.
+Brewery
+Structure 1
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 545
+A brewery is devoted to crafting alcohol, be it beer, wine, or spirits. This building can represent bottlers, vineyards, or even structures that produce non-alcoholic drinks.
+Lots 1; Cost 6 RP, 2 Lumber
+Construction Agriculture DC 15
+Item Bonus +1 item bonus to Establish Trade Agreement
+Effects When you build a brewery, reduce Unrest by 1 as long as you have fewer than 4 breweries in the settlement at that time.
+Bridge
+Structure 2
+Legacy Content
+Infrastructure 
+Source Kingmaker Adventure Path pg. 545
+Bridges give settlements that have water borders a connection to land (but at the GM's option, a border on a lake might not be able to use bridges).
+Lots —; Cost 6 RP, 1 Lumber or 1 StoneConstruction Engineering DC 16
+Effects A bridge allows an island settlement to provide influence (see Influence), negates the Trade penalty for island settlements (see Land Borders), and allows travel over its associated Water Border with ease (see Navigating an Urban Grid). Bridges can only be built on Water Borders. When you build a bridge, check the “Bridge” box on one of the Water Borders on your Urban Grid to indicate its location.
+Castle
+Structure 9
+Legacy Content
+Building Edifice Famous Infamous 
+Source Kingmaker Adventure Path pg. 545
+A castle is a fortified structure that often serves as the seat of government for a kingdom.
+Lots 4; Cost 54 RP, 12 Lumber, 12 Stone
+Construction Defense (expert), Industry (expert), Magic (expert), or Statecraft (expert) DC 26
+Upgrade From Town Hall
+Upgrade To Palace
+Item Bonus +2 item bonus to New Leadership, Pledge of Fealty, Send Diplomatic Envoy, and +2 item bonus to Garrison Army, Recover Army, or Recruit Army (see Appendix 3: Warfare)
+Effects The first time you build a castle each Kingdom turn, reduce Unrest by 1d4. A castle in a capital allows PC leaders to take 3 Leadership activities during the Activity phase of a Kingdom turn rather than 2.
+Cathedral
+Structure 15
+Legacy Content
+Building Edifice Famous Infamous 
+Source Kingmaker Adventure Path pg. 545
+A cathedral serves as a focal point of spiritual worship in the settlement and the seat of regional power for a religion. Most cathedrals are astounding works of art and eye-catching marvels of architecture.
+Lots 4; Cost 58 RP, 20 Lumber, 20 Stone
+Construction Folklore (master) DC 34
+Upgrade From Temple
+Item Bonus +3 item bonus to Celebrate Holiday, Provide Care, and Repair Reputation (Corruption)
+Effects The first time you build a cathedral in a turn, reduce Unrest by 4. While in a settlement with a cathedral, you gain a +3 item bonus to Lore and Religion checks made to Recall Knowledge while Investigating, and to all faith-themed checks made while Researching. Treat the settlement's level as three levels higher than its actual level for the purposes of determining what divine magic items are available for sale in that settlement. This effect does not stack with the similar effect granted by shrines or temples.
+Cemetery
+Structure 1
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 545
+A cemetery sets aside a plot of land to bury the dead and can also include above-ground vaults or underground catacombs.
+Lots 1; Cost 4 RP, 1 Stone
+Construction Folklore DC 15
+Effects Giving the citizens a place to bury and remember their departed loved ones helps to temper Unrest gained from dangerous events. If you have at least one cemetery in a settlement, reduce Unrest gained from any dangerous settlement events in that particular settlement by 1 (to a maximum of 4 for four cemeteries). The presence of a cemetery provides additional effects during certain kingdom events.
+Construction Yard
+Structure 10
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 546
+A construction yard supports the building of structures by providing a centralized place to gather supplies and craft components for larger projects.
+Lots 4; Cost 40 RP, 10 Lumber, 10 Stone
+Construction Engineering DC 27
+Item Bonus +1 item bonus to Build Structure and to Repair Reputation (Decay)
+Dump
+Structure 2
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 546
+A dump is a centralized place for the disposal of refuse, often including a shack for a caretaker to live in.
+Lots 1; Cost 4 RP
+Construction Industry DC 16
+Item Bonus +1 item bonus to Demolish
+Effects Certain events have a more dangerous impact on settlements that don't include a dump. A dump can't be located in a block with any Residential structures.
+Embassy
+Structure 8
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 546
+An embassy gives a place for diplomatic visitors to your kingdom to stay and bolsters international relations.
+Lots 2; Cost 26 RP, 10 Lumber, 6 Luxuries, 4 Stone
+Construction Politics DC 24
+Item Bonus +1 item bonus to Send Diplomatic Envoy and Request Foreign Aid
+Festival Hall
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 546
+A festival hall is a small building that gives performers a venue to entertain and citizens a place to gather for celebrations or simply to relax.
+Lots 1; Cost 7 RP, 3 Lumber
+Construction Arts DC 18
+Upgrade To Theater
+Item Bonus +1 item bonus to Celebrate Holiday
+Foundry
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 546
+A foundry is a facility used to refine ore into finished metal.
+Lots 2; Cost 16 RP, 5 Lumber, 2 Ore, 3 Stone
+Construction Industry (trained) DC 18
+Item Bonus +1 item bonus to Establish Work Site (mine)
+Effects By processing ore in a foundry, your settlements grow more efficient at storing your kingdom's Commodities. Each foundry in your kingdom increases your maximum Ore Commodity capacity by 1. A foundry cannot share a block with a Residential structure.
+Garrison
+Structure 5
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 546
+A garrison is a complex of barracks, training yards, and weapons storage and repair for maintaining your military.
+Lots 2; Cost 28 RP, 6 Lumber, 3 Stone
+Construction Warfare (trained) DC 20
+Upgrade From Barracks
+Item Bonus +1 item bonus to Outfit Army or Train Army (see Appendix 3: Warfare)
+Effects A garrison helps outfit armies with new gear or trains them. When you build a garrison, reduce Unrest by 1.
+General Store
+Structure 1
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 546
+Lots 1; Cost 8 RP, 1 Lumber
+Construction Trade DC 15
+Upgrade To Luxury Store, Marketplace
+Effects A settlement without a general store or marketplace reduces its effective level for the purposes of determining what items can be purchased there by 2.
+Gladiatorial Arena
+Structure 15
+Legacy Content
+Edifice Famous Infamous Yard 
+Source Kingmaker Companion Guide pg. 10
+Nethys note: This structure requires that Amiri is a member of your kingdom.
+
+A gladiatorial arena is a sprawling open-air field surrounded by seating and viewing areas. It also includes extensive underground barracks and training facilities for gladiators to use.
+Lots 4; Cost 58 RP, 10 Lumber, 30 Stone
+Construction Warfare (master) DC 34
+Upgrade From Arena
+Item Bonus +3 item bonus to Celebrate Holiday, to Hire Adventurers, and to Warfare checks made in order to Quell Unrest
+Effects A gladiatorial arena allows a PC in the settlement to retrain combat-themed feats (at the GM's discretion) more efficiently; doing so takes only 4 days rather than a week of downtime.
+Granary
+Structure 1
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 546
+A granary consists of silos and warehouses for the storage of grain and other preserved foodstuffs.
+Lots 1; Cost 12 RP, 2 Lumber
+Construction Agriculture DC 15
+Effects Each granary in your kingdom increases your maximum Food Commodity capacity by 1.
+Guildhall
+Structure 5
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 546
+A guildhall serves as the headquarters for a trade guild or similar organization. It includes offices for its leaders and functionaries as well as workshops for its craftspeople and a storefront for customers. Guildhalls always specialize in a certain type of trade or pursuit, but typically, only the largest cities have multiple guildhalls. Smaller settlements tend to focus on one particular trade.
+Lots 2; Cost 34 RP, 8 Lumber
+Construction Trade (expert) DC 20
+Upgrade From Trade Shop
+Item Bonus +1 item bonus to Economy skill checks associated with the guildhall's specific trade focus
+Effects When you build a guildhall, indicate what sort of organization (such as bakers, grocers, smiths, etc.) it serves as a headquarters for. While in a settlement with a guildhall, you gain a +1 item bonus to all related skill checks to Earn Income or to Repair.
+Herbalist
+Structure 1
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 547
+An herbalist consists of small medicinal gardens tended by those with knowledge of herbs and their uses to heal or to harm, as well as a storefront for customers.
+Lots 1; Cost 10 RP, 1 Lumber
+Construction Wilderness DC 15
+Upgrade To Hospital
+Item Bonus +1 item bonus to Provide Care
+Hospital
+Structure 9
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 547
+A hospital is a building dedicated to healing the sick through both magical and mundane means.
+Lots 2; Cost 30 RP, 10 Lumber, 6 Stone
+Construction Defense (expert) DC 26
+Upgrade From Herbalist
+Item Bonus +1 item bonus to Provide Care and Quell Unrest
+Effects While in a settlement with a hospital, you gain a +2 item bonus to Medicine checks to Treat Disease and Treat Wounds.
+Houses
+Structure 1
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 547
+Houses provide a neighborhood of single and multi-family dwellings for your citizens.
+Lots 1; Cost 3 RP, 1 Lumber
+Construction Industry DC 15
+Upgrade From Tenement
+Upgrade To Mansion, Orphanage
+Effects The first time you build houses each Kingdom turn, reduce Unrest by 1.
+Illicit Market
+Structure 6
+Legacy Content
+Building Infamous 
+Source Kingmaker Adventure Path pg. 547
+An illicit market uses a facade of shops, homes, and other innocent-seeming buildings to cover the fact that unregulated and illegal trade takes place within its walls.
+Lots 1; Cost 50 RP, 5 Lumber
+Construction Intrigue (trained) DC 22
+Item Bonus +1 item bonus to Clandestine Business
+Ruin +1 Crime
+Effects Treat the settlement's level as one level higher than its actual level for the purposes of determining what items are readily available for sale in that settlement. This effect stacks up to three times.
+Inn
+Structure 1
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 547
+An inn provides a safe and secure place for a settlement's visitors to rest.
+Lots 1; Cost 10 RP, 2 Lumber
+Construction Trade DC 15
+Item Bonus +1 Item bonus to Hire Adventurers
+Jail
+Structure 2
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 547
+A jail is a fortified structure that houses criminals, prisoners, or dangerous monsters separate from the rest of society.
+Lots 1; Cost 14 RP, 4 Lumber, 2 Ore, 4 Stone
+Construction Defense DC 16
+Item Bonus +1 item bonus to Quell Unrest using Intrigue
+Effects The first time you build a jail each a Kingdom turn, reduce Crime by 1.
+Keep
+Structure 3
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 547
+A keep is a high-walled defensive structure that guards the heart of a settlement. It includes practice and marshaling yards as well as a refuge for your leaders should danger strike the settlement.
+Lots 2; Cost 32 RP, 8 Lumber, 8 Stone
+Construction Defense (trained) DC 18
+Item Bonus +1 item bonus to Deploy Army, Garrison Army, or Train Army (see Appendix 3: Warfare)
+Effects The first time you build a keep each Kingdom turn, reduce Unrest by 1.
+Library
+Structure 2
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 547
+A library contains collections of books, scrolls, writings, and records conducive to research. Some libraries specialize in certain topics, but it's best to assume these libraries are well-rounded in what books they cover
+Lots 1; Cost 6 RP, 4 Lumber, 2 Stone
+Construction Scholarship (trained) DC 16
+Upgrade To Academy
+Item Bonus +1 item bonus to Rest and Relax using Scholarship checks
+Effects While in a settlement with a library, you gain a +1 item bonus to Lore checks made to Recall Knowledge while Investigating, as well as to Researching checks, and to Decipher Writing checks.
+Lumberyard
+Structure 3
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 547
+A lumberyard is an open area used to store additional lumber. The yard includes a lumber mill used to process lumber into timbers for construction purposes.
+Lots 2; Cost 16 RP, 5 Lumber, 1 Ore
+Construction Industry (trained) DC 18
+Item Bonus +1 item bonus to Establish Work Site (lumber camp)
+Effects Each lumberyard in your kingdom increases maximum Lumber Commodity capacity by 1. A lumberyard must be built in a lot next to a Water border, both to give the yard a source of power to run saws to process timber, but more importantly to facilitate the shipment of trees to the yard.
+Luxury Store
+Structure 6
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 548
+This collection of stores specializes in expensive, rare, and exotic goods that cater to the wealthy.
+Lots 1; Cost 28 RP, 10 Lumber, 6 Luxuries
+Construction Trade (expert) DC 22
+Upgrade From General Store
+Upgrade To Magic Shop
+Item Bonus +1 item bonus to Establish Trade Agreement
+Effects A luxury store must be built on a block that has either a mansion or a noble villa. Treat the settlement's level as one level higher than its actual level for determining what luxury-themed magic items (subject to GM approval) are readily available for sale in that settlement. This effect stacks up to three times and overlaps with other stores that function in this way for more specific categories of magic items.
+Magic Shop
+Structure 8
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 548
+These shops specialize in magic items and in connecting buyers with sellers of magical goods and services.
+Lots 1; Cost 44 RP, 8 Lumber, 6 Luxuries, 6 Stone
+Construction Magic (expert) DC 24
+Upgrade From Luxury Store
+Upgrade To Occult Shop
+Item Bonus +1 item bonus to Supernatural Solution
+Effects Treat the settlement's level as one level higher than its actual level for the purposes of determining what magic items are readily available for sale in that settlement. This effect stacks up to three times and overlaps with other stores that function in this way for more specific categories of magic items.
+Magical Streetlamps
+Structure 5
+Legacy Content
+Infrastructure 
+Source Kingmaker Adventure Path pg. 548
+Magical streetlamps are everburning torches that have been fitted within lampposts along the streets. At your option, these magical lights might even be free-floating spheres of light or other unusual forms of illumination.
+Lots —; Cost 20 RP
+Construction Magic (expert) DC 20
+Effects Magical streetlamps provide nighttime illumination for an entire Urban Grid. When you build magical streetlamps, check the magical streetlamps checkbox on your Urban Grid. The first time you build magical streetlamps in a Kingdom turn, reduce Crime by 1.
+Mansion
+Structure 5
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 548
+This larger manor house houses a wealthy family.
+Lots 1; Cost 10 RP, 6 Lumber, 6 Luxuries, 3 Stone
+Construction Industry (trained) DC 20
+Upgrade From Houses
+Upgrade To Noble Villa
+Item Bonus +1 item bonus to Improve Lifestyle
+Marketplace
+Structure 4
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 548
+A marketplace is a large neighborhood of shops run by local vendors around an open area for traveling merchants and farmers to peddle their wares.
+Lots 2; Cost 48 RP, 4 Lumber
+Construction Trade (trained) DC 19
+Upgrade From General Store
+Item Bonus +1 item bonus to Establish Trade Agreement
+Effects A town without a general store or marketplace reduces its effective level for the purposes of determining what items can be purchased there by 2.
+Menagerie
+Structure 12
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 548
+A menagerie is a large zoo that contains numerous enclosures, exhibits, tanks, or open preserves meant to display wildlife.
+Lots 4; Cost 26 RP, 14 Lumber, 10 Ore, 10 Stone
+Construction Wilderness (expert) DC 30
+Upgrade From Park
+Item Bonus +2 item bonus to Rest and Relax using Wilderness
+Effects A menagerie typically contains a selection of level 5 or lower animals. If your party captures a living creature of level 6 or higher and can transport the creature back to a settlement with a menagerie, you can add that creature to the menagerie as long as your kingdom level is at least 4 higher than the creature's level. Each time such a creature is added to a menagerie, gain 1 Fame or Infamy point (as appropriate) or reduce one Ruin of your choice by 1.
+Only creatures with Intelligence modifiers of –4 or –5 are appropriate to place in a menagerie. A kingdom gains 1 Unrest at the start of a Kingdom turn for each sapient creature (anything with an Intelligence modifier of –3 or higher) on display in a menagerie.
+Military Academy
+Structure 12
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 548
+A military academy is dedicated to the study of war and the training of elite soldiers and officers.
+Lots 2; Cost 36 RP, 12 Lumber, 6 Ore, 10 Stone
+Construction Warfare (expert) DC 30
+Upgrade From Academy
+Item Bonus +2 item bonus to Pledge of Fealty using Warfare, +2 item bonus to Train Army (see Appendix 3: Warfare)
+Mill
+Structure 2
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 548
+A mill grinds grain using the power of wind, water, or beasts of burden.
+Lots 1; Cost 6 RP, 2 Lumber, 1 Stone
+Construction Industry (trained) DC 16
+Item Bonus +1 item bonus to Harvest Crops
+Effects If a settlement includes at least one mill built on a lot adjacent to a Water border, the increased efficiency of these mills reduces the settlement's Consumption by 1 (to a minimum of 0).
+Mint
+Structure 15
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 549
+A mint allows the kingdom to produce its own coinage to augment its economy. It can also include fortified underground chambers to help serve as a treasury.
+Lots 1; Cost 30 RP, 12 Lumber, 20 Ore, 16 Stone
+Construction Trade (master) DC 34
+Item Bonus +3 item bonus to Capital Investment, Collect Taxes, and to Repair Reputation (Crime)
+Monument
+Structure 3
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 549
+A monument is an impressive stone structure built to commemorate a historical event, honor a beloved leader, memorialize a tragedy, or simply serve as an artistic display.
+Lots 1; Cost 6 RP, 1 Stone
+Construction Arts (trained) DC 18
+Item Bonus The first time you build a monument each Kingdom turn, reduce Unrest by 1 and reduce one Ruin of your choice by 1.
+Museum
+Structure 5
+Legacy Content
+Building Famous Infamous 
+Source Kingmaker Adventure Path pg. 549
+A museum displays art, objects of important cultural note, wonders of the natural world, and other marvels in a place where citizens can observe and learn.
+Lots 2; Cost 30 RP, 6 Lumber, 2 Stone
+Construction Exploration (trained) DC 20
+Item Bonus +1 item bonus to Rest and Relax using Arts
+Effects A magic item of level 6 or higher that has a particular import or bears significant historical or regional value (at the GM's discretion) can be donated to a museum. Each time such an item is donated, reduce Unrest by 1. If that item is later removed from display, increase Unrest by 1.
+Noble Villa
+Structure 9
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 549
+This sprawling manor has luxurious grounds. It houses a noble family and their staff, and includes several smaller support structures such as servant's quarters, stables, and groundskeeper's cottages in addition to a manor.
+Lots 2; Cost 24 RP, 10 Lumber, 6 Luxuries, 8 Stone
+Construction Politics (expert) DC 19
+Upgrade From Mansion
+Item Bonus +1 item bonus to Improve Lifestyle and to Quell Unrest using Politics
+Effects The first time you build a noble villa each Kingdom turn, reduce Unrest by 2.
+Occult Shop
+Structure 13
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 549
+An occult shop is usually a sprawling, mysterious store that specializes in buying and selling obscure magic and strange curios. It often provides access to supernatural services like fortune-telling.
+Lots 1; Cost 38 RP, 12 Lumber, 12 Luxuries, 6 Stone
+Construction Magic (master) DC 32
+Upgrade From Magic Shop
+Item Bonus +2 item bonus to Prognostication
+Effects Treat the settlement's level as one level higher than its actual level for the purposes of determining what magic items are readily available for sale in that settlement. This effect stacks up to three times and overlaps with other stores that function in this way for more specific categories of magic items. While in a settlement with an occult shop, you gain a +2 item bonus to all checks made to Research esoteric subjects or to Recall Knowledge about the same.
+Opera House
+Structure 15
+Legacy Content
+Building Edifice Famous Infamous 
+Source Kingmaker Adventure Path pg. 549
+An opera house functions well as a venue for operas, plays, and concerts, but also includes extensive facilities to aid in the training of all manner of bardic pursuits. Often, an opera house becomes a grandiose landmark, either due to its outlandish colors or eye-catching architecture.
+Lots 2; Cost 40 RP, 20 Lumber, 18 Luxuries, 16 Stone
+Construction Arts (master) DC 34
+Upgrade From Theater
+Item Bonus +3 item bonus to Celebrate Holiday and Create a Masterpiece
+Effects The first time you build an opera house each Kingdom turn, reduce Unrest by 4. While in a settlement with an opera house, you gain a +3 item bonus to Performance checks made to Earn Income.
+Orphanage
+Structure 2
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 549
+This sprawling residential building provides housing for orphans or even homeless citizens, but it can also help supply housing for refugees—but preferably not all at the same time, though!
+Lots 1; Cost 6 RP, 2 Lumber
+Construction Industry DC 16
+Upgrade From Houses
+Effects The first time you build an orphanage each Kingdom turn, reduce Unrest by 1.
+Palace
+Structure 15
+Legacy Content
+Building Edifice Famous Infamous 
+Source Kingmaker Adventure Path pg. 550
+A palace is a grand and splendid seat of government for your leaders and other political functionaries.
+Lots 4; Cost 108 RP, 20 Lumber, 12 Luxuries, 15 Ore, 20 Stone
+Construction Defense (master), Industry (master), Magic (master), or Statecraft (master) DC 34
+Upgrade From Castle
+Item Bonus +3 item bonus to New Leadership, Pledge of Fealty, and Send Diplomatic Envoy, and +3 item bonus to Garrison Army, Recover Army, or Recruit Army (see Appendix 3: Warfare)
+Effects A palace can only be built in your capital. The first time you build a palace, reduce Unrest by 10.
+If you Relocate your Capital, a palace left behind in that capital instead functions as a noble villa that takes up 4 lots. (If you represent this by placing two noble villas in these lots, make sure to note that they constitute a single building and aren't two separate structures.)
+A palace in a capital allows PC leaders to take 3 Leadership activities during the Activity phase of a Kingdom turn rather than just 2. In addition, once your kingdom has a palace, a PC in the Ruler leadership role gains a +3 item bonus to checks made to resolve Leadership activities.
+Park
+Structure 3
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 550
+A park is a plot of undeveloped land set aside for public use. This lot could be left as is, or the landscaping could be manipulated to have a specific look or type of terrain.
+Lots 1; Cost 5 RP
+Construction Wilderness DC 18
+Upgrade To Menagerie
+Item Bonus +1 item bonus to Rest and Relax using Wilderness checks
+Effects The first time you build a park each Kingdom turn, reduce Unrest by 1.
+Paved Streets
+Structure 4
+Legacy Content
+Infrastructure 
+Source Kingmaker Adventure Path pg. 550
+Brick or cobblestone streets speed transportation and ease the passage of people, mounts, and vehicles.
+Lots —; Cost 12 RP, 6 Stone
+Construction Industry (trained) DC 19
+Effects It takes a character only 5 minutes to move from one lot to an adjacent lot in an Urban Grid when moving on paved streets. When you build paved streets, check the paved streets checkbox on your Urban Grid.
+Pier
+Structure 3
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 550
+Several wooden piers allow easy access to fishing and provide a convenient place to moor boats.
+Lots 1; Cost 16 RP, 2 Lumber
+Construction Boating DC 18
+Upgrade To Waterfront
+Item Bonus +1 item bonus to Go Fishing
+Effects A pier must be built in a lot next to a Water border.
+Printing House
+Structure 10
+Legacy Content
+Building Edifice 
+Source Kingmaker Companion Guide pg. 54
+Nethys note: This structure requires the completion of Linzi's companion quest.
+
+A printing house gives your citizens—and the PCs themselves—a place to create newspapers and books.
+Lots 2; Cost 48 RP, 12 Lumber, 12 Luxuries
+Construction Industry (master) DC 27
+Item Bonus +2 item bonus to Improve Lifestyle and Quell Unrest
+Effects A PC in a settlement with a printing house gains a +2 item bonus to checks to Gather Information or to Research any topic in a library or similar structure.
+Rubble
+Structure 0
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 550
+An unsightly heap of rubble fills this lot.
+Lots 1; Cost
+Effects Rubble is created accidentally, such as from a result of certain kingdom events or failed Demolish activity. You cannot build in a lot with rubble; it must be removed via a successful Demolish activity.
+Sacred Grove
+Structure 5
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 550
+This untouched land has been blessed by primal spirits, druids friendly with your settlement, or allied fey creatures.
+Lots 1; Cost 36 RP
+Construction Wilderness (trained) DC 20
+Item Bonus +1 item bonus to Quell Unrest using Folklore
+Effects Treat the settlement's level as one level higher than its actual level for the purposes of determining what primal magic items are readily available for sale in that settlement. This effect stacks up to three times.
+Secure Warehouse
+Structure 6
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 550
+Secure warehouses are used to store valuables.
+Lots 2; Cost 24 RP, 6 Lumber, 4 Ore, 6 Stone
+Construction Industry (expert) DC 22
+Item Bonus +1 item bonus to Craft Luxuries
+Effects Each secure warehouse in your kingdom increases your maximum Luxuries Commodity capacity by 1.
+Sewer System
+Structure 7
+Legacy Content
+Infrastructure 
+Source Kingmaker Adventure Path pg. 550
+This underground sanitation system helps keep the settlement clean and disease-free.
+Lots —; Cost 24 RP, 8 Lumber, 8 Stone
+Construction Engineering (expert) DC 23
+Item Bonus +1 item bonus to Clandestine Business
+Effects A sewer system reduces the settlement's Consumption by 1. Having a sewer system can also affect certain kingdom events. When you build a sewer system, check the sewer system checkbox on its Urban Grid. (For metropolises, this infrastructure automatically applies to all of its Urban Grids.)
+Shrine
+Structure 1
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 550
+A shrine is a small building devoted to the worship of a deity or faith. It can be attended by resident priests or visiting clergy.
+Lots 1; Cost 8 RP, 2 Lumber, 1 Stone
+Construction Folklore (trained) DC 15
+Upgrade To Temple
+Item Bonus +1 item bonus to Celebrate Holiday
+Effects Treat the settlement's level as one level higher than its actual level when determining what divine magic items are readily available for sale in that settlement. This effect stacks up to three times but does not stack with the same effect granted by temples or cathedrals.
+Smithy
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 551
+A smithy consists of workshops and forges.
+Lots 1; Cost 8 RP, 2 Lumber, 1 Ore, 1 Stone
+Construction Industry (trained) DC 18
+Item Bonus +1 item bonus to Trade Commodities, +1 item bonus to Outfit Army (see Appendix 3: Warfare)
+Effects While in a settlement with a smithy, you gain a +1 item bonus to Craft checks made to work with metal.
+Specialized Artisan
+Structure 4
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 551
+These shops and homes are devoted to crafters who create fine jewelry, glassware, clockworks, and the like.
+Lots 1; Cost 10 RP, 4 Lumber, 1 Luxuries
+Construction Trade (expert) DC 19
+Item Bonus +1 item bonus to Craft Luxuries
+Effects While in a settlement with a specialized artisan, you gain a +1 item bonus to Craft checks made to craft specialized goods like jewelry.
+Stable
+Structure 3
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 551
+A stable consists of a yard and smaller structures to house, train, and sell mounts.
+Lots 1; Cost 10 RP, 2 Lumber
+Construction Wilderness (trained) DC 18
+Item Bonus +1 item bonus to Establish Trade Agreement
+Stockyard
+Structure 3
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 551
+A stockyard includes several barns and pens used to house livestock and prepare them for slaughter.
+Lots 4; Cost 20 RP, 4 Lumber
+Construction Industry DC 18
+Item Bonus +1 item bonus to Gather Livestock
+Effects A settlement with at least one stockyard reduces its Consumption by 1.
+Stonemason
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 551
+A stonemason is a large building used to store and work quarried stone for preparation in building.
+Lots 2; Cost 16 RP, 2 Lumber
+Construction Industry (trained) DC 18
+Item Bonus +1 item bonus to Establish Work Site (quarry).
+Effects Each stonemason in your kingdom increases your maximum Stone Commodity capacity by 1.
+Tannery
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 551
+A tannery is a factory outfitted with racks, vats and tools for the preparation of hides and leather.
+Lots 1; Cost 6 RP, 2 Lumber
+Construction Industry (trained) DC 18
+Item Bonus +1 to Trade Commodities
+Effects A tannery cannot share a block with any Residential structure except tenements.
+Tavern, Dive
+Structure 1
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 551
+A dive tavern is a rough-and-tumble establishment for entertainment, eating, and drinking.
+Lots 1; Cost 12 RP, 1 Lumber
+Construction Trade (trained) DC 15
+Upgrade To Tavern, Popular
+Effects The first time you build a dive tavern in a Kingdom turn, reduce Unrest by 1 but increase Crime by 1.
+Tavern, Luxury
+Structure 9
+Legacy Content
+Building Famous 
+Source Kingmaker Adventure Path pg. 551
+A luxury tavern is a high-class establishment for entertainment, eating, and drinking. It may even include a built-in stage for performers to use.
+Lots 2; Cost 48 RP, 10 Lumber, 8 Luxuries, 8 Stone
+Construction Trade (master) DC 26
+Upgrade From Tavern, Popular
+Upgrade To Tavern, World-Class
+Item Bonus +2 item bonus to Hire Adventurers and to Rest and Relax using Trade
+Effects The first time you build a luxury tavern in a Kingdom turn, reduce Unrest by 1d4+1. If attempt a Performance check to Earn Income in a settlement with a luxury tavern, you gain a +2 item bonus to the check. All checks made to Gather Information in a settlement with at least one luxury tavern gain a +2 item bonus.
+Tavern, Popular
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 551
+A popular tavern is a respectable establishment for entertainment, eating, and drinking.
+Lots 1; Cost 24 RP, 6 Lumber, 2 Stone
+Construction Trade (expert) DC 18
+Upgrade From Tavern, Dive
+Upgrade To Tavern, Luxury
+Item Bonus +1 item bonus to Hire Adventurers and to Rest and Relax using Trade
+Effects The first time you build a popular tavern in a Kingdom turn, reduce Unrest by 2. If you attempt a Performance check to Earn Income in a settlement with a popular tavern, you gain a +1 item bonus to the check. All checks made to Gather Information in a settlement with at least one popular tavern gain a +1 item bonus.
+Tavern, World-Class
+Structure 15
+Legacy Content
+Building Edifice Famous 
+Source Kingmaker Adventure Path pg. 552
+A World-Class Tavern is a legendary establishment for entertainment, eating, and drinking. It has at least one venue for performances—perhaps multiple ones.
+Lots 2; Cost 64 RP, 18 Lumber, 15 Luxuries, 15 Stone
+Construction Trade (master) DC 34
+Upgrade From Tavern, Luxury
+Item Bonus +3 item bonus to Hire Adventurers, to Rest and Relax using Trade, and to Repair Reputation (Strife)
+Effects The first time you build a world-class tavern in a Kingdom turn, reduce Unrest by 2d4. If you attempt a Performance check to Earn Income in a settlement with a world-class tavern, you gain a +3 item bonus to the check. All checks made to Gather Information in a settlement with a world-class tavern gain a +3 item bonus.
+Temple
+Structure 7
+Legacy Content
+Building Famous Infamous 
+Source Kingmaker Adventure Path pg. 552
+A temple is a building devoted to worshipping a deity or faith.
+Lots 2; Cost 32 RP, 6 Lumber, 6 Stone
+Construction Folklore (trained) DC 23
+Upgrade From Shrine
+Upgrade To Cathedral
+Item Bonus +1 item bonus to Celebrate Holiday and Provide Care
+Effects The first time you build a temple each Kingdom turn, reduce Unrest by 2. Treat the settlement's level as one level higher than its actual level for the purposes of determining what divine magic items are readily available for sale in that settlement. This effect stacks up to three times but does not stack with the same effect granted by shrines or cathedrals.
+Tenement
+Structure 0
+Legacy Content
+Building Residential 
+Source Kingmaker Adventure Path pg. 552
+Tenements are hastily built shantytowns of tightly packed, multi-family dwellings that are cheap and fast to build.
+Lots 1; Cost 1 RP, 1 Lumber
+Construction Industry DC 14
+Upgrade To Houses
+Ruin +1 to a Ruin of your choice
+Effects The first time you build tenements each Kingdom turn, reduce Unrest by 1.
+Theater
+Structure 9
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 552
+A theater is a venue for concerts, plays, and dances, but can double as a place for debates or other events.
+Lots 2; Cost 24 RP, 8 Lumber, 3 Stone
+Construction Arts (expert) DC 26
+Upgrade From Festival Hall
+Upgrade To Opera House
+Item Bonus +2 item bonus to Celebrate Holiday.
+Effects The first time you build a theater each Kingdom turn, reduce Unrest by 1. While in a settlement with a theater, you gain a +2 item bonus to Performance checks made to Earn Income.
+Thieves' Guild
+Structure 5
+Legacy Content
+Building Infamous 
+Source Kingmaker Adventure Path pg. 552
+The government knows this group exists but allows it to continue doing its business as long as the guild doesn't overstep its bounds.
+Lots 1; Cost 25 RP, 4 Lumber
+Construction Intrigue (trained) DC 20
+Item Bonus +1 item bonus to Infiltration
+Ruin +1 Crime
+Effects While in a settlement with a thieves' guild, you gain a +1 item bonus to Create Forgeries.
+Town Hall
+Structure 2
+Legacy Content
+Building Edifice 
+Source Kingmaker Adventure Path pg. 552
+A town hall is a public venue for town meetings and a repository for town history and records.
+Lots 2; Cost 22 RP, 4 Lumber, 4 Stone
+Construction Defense (trained), Industry (trained), Magic (trained), or Statecraft (trained) DC 16
+Upgrade To Castle
+Effects The first time you build a town hall each Kingdom turn, reduce Unrest by 1. A town hall in a capital allows PC leaders to take 3 Leadership activities during the Activity phase of a Kingdom turn rather than just 2.
+Trade Shop
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 552
+A trade shop is a store that focuses on providing services.
+Lots 1; Cost 10 RP, 2 Lumber
+Construction Trade (trained) DC 18
+Upgrade To Guildhall
+Item Bonus +1 item bonus to Purchase Commodities
+Effects When you build a trade shop, indicate the kind of shop it is, such as a bakery, carpenter, tailor, and so on. While in a settlement with a trade shop, you gain a +1 item bonus to all associated Crafting checks.
+University
+Structure 15
+Legacy Content
+Building Edifice Famous 
+Source Kingmaker Adventure Path pg. 552
+A university is a sprawling institution of higher learning.
+Lots 4; Cost 78 RP, 18 Lumber, 18 Luxuries, 18 Stone
+Construction Scholarship (master) DC 34
+Upgrade From Academy
+Item Bonus +3 item bonus to Creative Solution
+Effects While in a settlement with a university, you gain a +3 item bonus to Lore checks made to Recall Knowledge while Investigating, to Research checks (Gamemastery Guide 154), and to Decipher Writing.
+Wall, Stone
+Structure 5
+Legacy Content
+Infrastructure 
+Source Kingmaker Adventure Path pg. 552
+Stone walls provide solid defenses to a settlement's borders.
+Lots —; Cost 4 RP, 8 Stone
+Construction Defense (trained) DC 20
+Upgrade From Wall, Wooden
+Effects A stone wall is built along the border of your settlement. The first time you build a stone wall in each settlement, reduce Unrest by 1. When you build a stone wall, choose a border on your Urban Grid and check the appropriate checkbox; if you're upgrading from a wooden wall, uncheck that box.
+Wall, Wooden
+Structure 1
+Legacy Content
+Infrastructure 
+Source Kingmaker Adventure Path pg. 552
+Wooden walls provide serviceable defenses to a settlement.
+Lots —; Cost 2 RP, 4 Lumber
+Construction Defense DC 15
+Upgrade To Wall, Stone
+Effects A wooden wall is built along the border of your settlement. The first time you build a wooden wall in each settlement, reduce Unrest by 1. When you build a wooden wall, choose a border on your Urban Grid and check the appropriate checkbox.
+Watchtower
+Structure 3
+Legacy Content
+Building 
+Source Kingmaker Adventure Path pg. 552
+A watchtower serves as a guard post that grants a settlement advance warning to upcoming dangerous events.
+Lots 1; Cost 12 RP, 4 Lumber or 4 StoneConstruction Defense (trained) DC 18
+Item Bonus +1 item bonus to checks to resolve events affecting the settlement.
+Effects The first time you build a watchtower each Kingdom turn, decrease Unrest by 1.
+Waterfront
+Structure 8
+Legacy Content
+Yard 
+Source Kingmaker Adventure Path pg. 552
+A waterfront serves as a bustling port for waterborne passengers and cargo. It's supported by facilities for shipping and shipbuilding, but also features boardwalks for foot traffic and fishers to ply their trade as well.
+Lots 4; Cost 90 RP, 10 Lumber
+Construction Boating (expert) DC 24
+Upgrade From Pier
+Item Bonus +1 item bonus to Go Fishing, and to Establish Trade Agreement and Rest and Relax using Boating
+Effects A waterfront must be constructed next to a Water Border. A settlement with at least 1 waterfront increases its effective level by 1 for the purposes of determining what level of items can be purchased in that settlement; this bonus stacks with similar bonuses in the settlement
